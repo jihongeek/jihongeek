@@ -4,7 +4,7 @@
 
 #### Q1. Who are you? 
 
-I'm Student Developer and love coding and learning technologies. but I Also love musics, movies, and other Art things.  
+I'm Student Developer love coding and learning technologies. but I Also love musics, movies, and other Art things.  
 
 
 #### Q2. What are you interested in?
