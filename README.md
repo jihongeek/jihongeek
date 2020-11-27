@@ -1,16 +1,24 @@
-### Hi there 👋
+### Welcome! This is about Developer Jihong Kim.
+
 [![!Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=algoitni)](https://solved.ac/algoitni)
-<!--
-**jihongeek/jihongeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### Q1. Who are you? 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Student Developer and love coding and learning technologies. but I Also love musics, movies, and other Art things.  
+
+
+#### Q2. What are you interested in?
+
+A : Nowadays, I'm interested in making cool(design and its operation) websites and learning new technology.  
+
+#### Q3. What skills do you have?
+
+* 🔠Language : Python, Javascript (But I know little about C)
+* 🏗Framework : Flask, (React)
+* 🧠Algorithm : I solve algorithm problems in [baekjoon online judge](https://www.acmicpc.net/)  and share  my experience with other people in school algorithm study club.
+
+#### Q4. Do you have any project you participated in?
+
+* 감성티켓(gamseongticket) : It's site about making square digital ticket!
+* [김지홍의 통학생활(jihong's commuterlife)](https://tonghak.jihongeek.com/) :  Personal Map site for my commuter life.
+
