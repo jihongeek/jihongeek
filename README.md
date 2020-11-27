@@ -9,7 +9,7 @@ I'm Student Developer and love coding and learning technologies. but I Also love
 
 #### Q2. What are you interested in?
 
-A : Nowadays, I'm interested in making cool(design and its operation) websites and learning new technology.  
+Nowadays, I'm interested in making cool(design and its operation) websites and learning new technologies.  
 
 #### Q3. What skills do you have?
 
