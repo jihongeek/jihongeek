@@ -15,7 +15,7 @@ Nowadays, I'm interested in making cool(design and its operation) websites and l
 
 * 🔠Language : Python, Javascript (But I know little about C)
 * 🏗Framework : Flask
-* 🧠Algorithm : I solve algorithm problems in [baekjoon online judge](https://www.acmicpc.net/)  and share  my experience with other people in school algorithm study club.
+* 🧠Algorithm : I solve algorithm problems in [baekjoon online judge](https://www.acmicpc.net/)  and share  my experience with other people in school algorithm study club(Now [Dalgors](https://github.com/dalgors)).
 
 #### Q4. Do you have any project you participated in?
 
