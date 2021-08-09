@@ -20,6 +20,5 @@ Nowadays, I'm interested in making cool(design and its operation) websites and l
 #### Q4. Do you have any project you participated in?
 
 * 감성티켓(gamseongticket) : It's site about making square digital ticket!
-* [김지홍의 통학생활(jihong's commuterlife)](https://tonghak.jihongeek.com/) :  Personal Map site for my commuter life.
 
 [![Jihong Kim's github stats](https://github-readme-stats.vercel.app/api?username=jihongeek)](https://github.com/anuraghazra/github-readme-stats)
